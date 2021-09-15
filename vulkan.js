@@ -5,8 +5,8 @@
 
 //url for the api, we've to fetch the api using the link
 
-//var url="https://api.funtranslations.com/translate/vulcan.json" 
-var url="https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
+var url="https://api.funtranslations.com/translate/vulcan.json" 
+//var url="https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json"
 //the format has to be .json?text=randon_text
 
 //text we want to translate, first we have to get it from HTML document using DOM principles
